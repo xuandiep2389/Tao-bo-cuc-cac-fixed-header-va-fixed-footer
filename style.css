@@ -1,0 +1,14 @@
+.navbar{
+
+    background-color: slategrey;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    font-size: 16px;
+    font-family: "Fira Code Light";
+}
+
+.main{
+    position: absolute;
+}
